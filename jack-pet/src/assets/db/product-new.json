@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Pet Food",
+    "imageSrc": "product1.png",
+    "imageAlt": "Delicious dog food for strong muscles and overall health.",
+    "price": "$35",
+    "color": "Pedigree"
+  },
+  {
+    "id": 2,
+    "name": "Pet Food",
+    "imageSrc": "product2.png",
+    "imageAlt": "Premium dog food for optimal health and nourishment. Simply the best!",
+    "price": "$40",
+    "color": "Premium Dog"
+  },
+  {
+    "id": 3,
+    "name": "Pet Food",
+    "imageSrc": "product3.png",
+    "imageAlt": "Nourish your dog with premium, delicious, and health-boosting dog food.",
+    "price": "$55",
+    "color": "Premium puppy"
+  },
+  {
+    "id": 4,
+    "name": "Pet Food",
+    "imageSrc": "product4.png",
+    "imageAlt": "Wholesome dog food for happy, healthy, and vibrant four-legged friends.",
+    "price": "$35",
+    "color": "Happy dog"
+  }
+
+  ]
